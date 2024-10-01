@@ -34,7 +34,7 @@ streamlit run dashboard.py
 - Muhamad Chaerul Anwar 2024
 
 ## Priview
-![image](https://raw.githubusercontent.com/anwar016/preview1/refs/heads/main/Cuplikan%20layar%202024-10-02%20005430.png)
-![image](https://github.com/anwar016/preview1/blob/main/Cuplikan%20layar%202024-10-02%20005457.png?raw=truehttps://github.com/anwar016/preview1/blob/main/Cuplikan%20layar%202024-10-02%20005457.png?raw=true)
+![image](https://github.com/anwar016/preview1/blob/main/Cuplikan%20layar%202024-10-02%20012951.png?raw=true)
+![image](https://github.com/anwar016/preview1/blob/main/Cuplikan%20layar%202024-10-02%20013005.png?raw=true)
 ![image](https://github.com/anwar016/preview1/blob/main/Cuplikan%20layar%202024-10-02%20005508.png?raw=true)
 ![image](https://github.com/anwar016/preview1/blob/main/Cuplikan%20layar%202024-10-02%20005519.png?raw=true)
