@@ -215,6 +215,7 @@ ax.tick_params(axis='y', labelsize=15)
 st.pyplot(fig)
 
 st.subheader('Weekday, Workingday, and Holiday Rentals')
+
 # Weekday, Workingday, and Holiday Rentals
 fig, axes = plt.subplots(nrows=3, ncols=1, figsize=(15, 10))
 
